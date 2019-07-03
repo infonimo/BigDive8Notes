@@ -114,7 +114,7 @@ the more it's complex the model ....
 > vladimir vapnik  
 > alexey chervonenkis
 
-we are trying to approssimate the g to the target function
+we are trying to approximate the g to the target function
 
 ### Part 2
 
