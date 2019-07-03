@@ -1,6 +1,6 @@
 # ML Intro
 
-Classic examples of DL:
+Classic examples of Deep Learning (DL):
 + semantic segmentation image reconstruction
 + speech recognition
 + image annotation
